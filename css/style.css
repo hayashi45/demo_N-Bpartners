@@ -1,0 +1,17 @@
+
+*{
+  font-family: Hiragino Sans;  
+  word-break:normal;
+  color: #081764;
+  }
+
+
+.ul{
+  padding:0;
+  margin: 0;
+}
+.li{
+  list-style-type: none;
+}
+
+    
